@@ -1,0 +1,8 @@
+git push https://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@github.com/K1aus730/ServiceCenterIS.git
+
+Администратор (1) Ivan qwe123
+Менеджер (2) Petr asd456
+Менеджер (2) Test Test000
+
+another token 
+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
